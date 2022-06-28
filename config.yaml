@@ -1,0 +1,4 @@
+proxy:
+  listen: 0.0.0.0:5000
+  target: http://httpforever.com
+  log: log.txt
